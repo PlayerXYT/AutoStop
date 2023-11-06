@@ -1,0 +1,6 @@
+main: com.x.autostop.Main
+name: AutoStop
+version: 1.0.0
+api-version: 1.13
+load: POSTWORLD
+author: Player_X_YT
